@@ -40,5 +40,5 @@ The dataset for this project is too large to store on GitHub. You can download i
 
 [Download Dataset](https://drive.google.com/file/d/19t3J1-8xB7nSHRaRhhjmjzGOl-EF8Vss/view?usp=drive_link)
 
-After downloading, extract the files and place them in the `data/` folder of this repository.
+After downloading, extract the files and place them in the folders.
 
