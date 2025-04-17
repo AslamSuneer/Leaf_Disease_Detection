@@ -38,7 +38,7 @@ The project utilizes the **PlantVillage dataset** and provides a web-based inter
 
 The dataset for this project is too large to store on GitHub. You can download it from the following link:
 
-[Download Dataset](https://drive.google.com/your-shared-link)
+[Download Dataset](https://drive.google.com/file/d/19t3J1-8xB7nSHRaRhhjmjzGOl-EF8Vss/view?usp=drive_link)
 
 After downloading, extract the files and place them in the `data/` folder of this repository.
 
