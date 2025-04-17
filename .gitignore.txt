@@ -1,0 +1,7 @@
+# Ignore virtual envs
+*/integration_env/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
