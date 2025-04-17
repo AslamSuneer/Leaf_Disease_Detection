@@ -31,3 +31,14 @@ The project utilizes the **PlantVillage dataset** and provides a web-based inter
 - TensorFlow
 - OpenCV
 - Git LFS (for large file storage)
+
+
+
+## Dataset
+
+The dataset for this project is too large to store on GitHub. You can download it from the following link:
+
+[Download Dataset](https://drive.google.com/your-shared-link)
+
+After downloading, extract the files and place them in the `data/` folder of this repository.
+
